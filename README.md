@@ -1,5 +1,5 @@
 
- ### NOTE: THERE IS SOME ISSUE WITH GITHUB RENDERING PLEASE FIND SEPARATE LINKS AT THE END OF THIS FILE
+ ### NOTE: THERE WAS SOME ISSUE WITH GITHUB RENDERING WHICH HAS NOW BEEN FIXED
 # Machine Learning
 
 This repository contains my work while learning Machine Learning, primarily through Andrew Ng's Machine Learning Specialization.
@@ -40,5 +40,3 @@ The purpose of this repository is to document my learning journey, build intuiti
 
 This repository will be updated as I progress through the specialization and explore additional machine learning concepts.
 
-## LINKS
-Linear Regression-
